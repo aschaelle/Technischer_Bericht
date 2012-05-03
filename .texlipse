@@ -1,5 +1,5 @@
 #TeXlipse project settings
-#Fri Apr 20 18:43:40 CEST 2012
+#Thu May 03 17:39:15 CEST 2012
 markTmpDer=true
 builderNum=2
 outputDir=
@@ -7,8 +7,8 @@ makeIndSty=
 bibrefDir=
 outputFormat=pdf
 tempDir=tmp
-mainTexFile=LatexTutorial.tex
-outputFile=LatexTutorial.pdf
+mainTexFile=TechnischerBericht.tex
+outputFile=TechnischerBericht.pdf
 langSpell=de
 markDer=true
 srcDir=
